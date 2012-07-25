@@ -31,10 +31,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="53" selection-start="106" selection-end="106" vertical-scroll-proportion="0.05279503">
+            <state line="19" column="43" selection-start="516" selection-end="516" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.markdown" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="36" selection-start="1260" selection-end="1260" vertical-scroll-proportion="0.8240166">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="beaches.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beaches.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="54" selection-start="696" selection-end="696" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -68,6 +86,7 @@
         <option value="$PROJECT_DIR$/bin/niagara_beach_report.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.markdown" />
       </list>
     </option>
   </component>
@@ -298,13 +317,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/beaches.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="54" selection-start="696" selection-end="696" vertical-scroll-proportion="0.42236024">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/statuses.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="26" selection-start="899" selection-end="899" vertical-scroll-proportion="0.0">
@@ -342,7 +354,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="53" selection-start="106" selection-end="106" vertical-scroll-proportion="0.05279503">
+        <state line="19" column="43" selection-start="516" selection-end="516" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beaches.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="54" selection-start="696" selection-end="696" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="36" selection-start="1260" selection-end="1260" vertical-scroll-proportion="0.8240166">
           <folding />
         </state>
       </provider>
