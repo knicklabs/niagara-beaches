@@ -13,13 +13,13 @@ var Scraper = require('./lib/scraper')
 var beaches = {
   get: function(callback) {
     var scraper = new Scraper({
-      uri: 'http://www.niagararegion.ca/sherpa-lists/beach-results.xml',
-      root: ['rs:data', 'z:row'],
+      uri: 'http://www.niagararegion.ca/sherpa-lists/beach-results_v2.xml',
+      root: ['bm'],
       keys: {
-        name: ['@', 'ows_Beach_x0020_Name'],
-        status: ['@', 'ows_Posting_x0020_Status'],
-        date: ['@', 'ows_Posting_x0020_Date'],
-        reason: ['@', 'ows_Posting_x0020_Reason']
+        name: ['@', 'ows_Beach_Name'],
+        status: ['@', 'ows_Posting_Status'],
+        date: ['@', 'ows_Posting_Date'],
+        reason: ['@', 'ows_Posting_Reason']
       }
     });
 
