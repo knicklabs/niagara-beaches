@@ -33,19 +33,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="43" selection-start="516" selection-end="516" vertical-scroll-proportion="0.0">
+            <state line="2" column="21" selection-start="52" selection-end="52" vertical-scroll-proportion="0.033632286">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="beaches.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="beaches.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beaches.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="19" selection-start="620" selection-end="620" vertical-scroll-proportion="0.34388646">
+            <state line="41" column="25" selection-start="972" selection-end="972" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -103,10 +103,10 @@
         <option value="$PROJECT_DIR$/lib/scraper.js" />
         <option value="$PROJECT_DIR$/bin/niagara_beach_report.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/README.markdown" />
         <option value="$PROJECT_DIR$/lib/statuses.js" />
         <option value="$PROJECT_DIR$/beaches.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -206,6 +206,14 @@
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
@@ -364,13 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="43" selection-start="516" selection-end="516" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="36" selection-start="1260" selection-end="1260" vertical-scroll-proportion="0.8240166" />
@@ -406,7 +407,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/beaches.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="19" selection-start="620" selection-end="620" vertical-scroll-proportion="0.34388646">
+        <state line="41" column="25" selection-start="972" selection-end="972" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="21" selection-start="52" selection-end="52" vertical-scroll-proportion="0.033632286">
           <folding />
         </state>
       </provider>
