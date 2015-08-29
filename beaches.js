@@ -5,7 +5,8 @@ var Scraper = require('./lib/scraper')
       status: {
         state: (data.status == 'Open') ? true : false,
         date: data.date,
-        reason: (data.reason || '').replace(/;#/g, '')
+        reason: (data.reason || '').replace(/;#/g, ''),
+        temp: data.temp
       }
     };
   };
@@ -19,7 +20,8 @@ var beaches = {
         name: ['@', 'ows_Beach_Name'],
         status: ['@', 'ows_Posting_Status'],
         date: ['@', 'ows_Posting_Date'],
-        reason: ['@', 'ows_Posting_Reason']
+        reason: ['@', 'ows_Posting_Reason'],
+        temp: ['@', 'ows_Survey_Temp']
       }
     });
 
