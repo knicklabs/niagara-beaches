@@ -39,37 +39,6 @@ colorize = function(string, state) {
   return string + colors.reset;
 }
 
-/*
-createMessage = function(data) {
-  var message = data.name + ' ';
-
-  if (data.status.state) {
-    message = message + 'is open';
-  } else {
-    message = message + 'is closed';
-
-    if (typeof data.status.reason !== 'undefined') {
-      message = message + ' due to ' + data.status.reason;
-    }
-  }
-
-  if (typeof data.status.date !== 'undefined') {
-    message = message + ' (' + humanize(moment(data.status.date).fromNow()) + ')';
-  }
-
-  message = message + '.';
-
-  if (data.status.state) {
-    message = colors.green + message;
-  } else {
-    message = colors.red + message;
-  }
-  message = message + colors.reset;
-
-  return message;
-};
-*/
-
 beaches.get(function(err, data) {
   if (err) {
     return console.log(err);
