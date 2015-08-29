@@ -7,6 +7,7 @@
     "niagara-beaches": "bin/niagara_beach_report.js"
   },
   "dependencies": {
+    "cli-table": "^0.3.1",
     "moment": "~1.6.2",
     "request": "~2.9.203",
     "xml2js": "~0.1.14"
