@@ -1,6 +1,6 @@
 {
   "name": "niagara-beaches",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A command line interface for the latest beach statuses in Niagara.",
   "main": "beaches.js",
   "bin": {
