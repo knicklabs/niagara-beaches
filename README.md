@@ -2,9 +2,9 @@
 
 > Fetch the latest Niagara beach monitoring data. Includes CLI!
 
-This is a small package that can be used to fetch the latest beach monitoring data for Beaches in the Niagara Region. It includes a CLI so you can check the water quality and temperatures for each beach from your terminal.
+This is a small package that can be used to fetch the latest beach monitoring data for beaches in the Niagara Region. It includes a CLI so you can check the water quality and temperatures for each beach from your terminal.
 
-The beaches reported on here are not monitored year round and the feed that this package pulls from can be changed or discontinued at any time so check the dates.
+The beaches reported on here are NOT monitored year-round and the feed that this package pulls from can be changed or discontinued at any time so check the dates as data may be stale.
 
 ## History of this Package
 
